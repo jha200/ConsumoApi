@@ -1,0 +1,51 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100hv;
+    background-color: rgb(122, 136, 136);
+    align-items: center;
+}
+
+#input_rick{
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+    font-size: x-large;
+    padding-left: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#button_search{
+    width: 20%;
+    height: 30px;
+    border-radius: 8px;
+    margin-top: 15px;
+    font-size: larger;
+}
+
+#country_information{
+    width: 30%;
+    height: 670px;
+    background-color: rgb(235, 231, 225);
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6%;
+    font-size: 15px;
+    text-align: left;
+}
+
+#show-info{
+    width: 30%;
+    height: 670px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6%;
+    font-size: 7px;
+    text-align: left;
+}
+
+
